@@ -1,0 +1,23 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Nicholas Ganeshram",
+	"description": "A project that does something with Node",
+	"license": "CSCI 355",
+	"version": "1.0.0",
+	"keywords": [
+		"freecodecamp",
+		"related",
+		"words"
+	],
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
